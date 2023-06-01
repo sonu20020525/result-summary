@@ -111,9 +111,10 @@ body{
     padding:5px;
     border-radius:19px;
   }
-@media (max-width:373px)
+@media (max-width:360px)
   {
     .container{
-      width:373px;
+      flex-direction: column;
+
     }
   }
