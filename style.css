@@ -111,3 +111,9 @@ body{
     padding:5px;
     border-radius:19px;
   }
+@media (max-width:373px)
+  {
+    .container{
+      width:373px;
+    }
+  }
